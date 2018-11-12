@@ -18,6 +18,9 @@ npm install
 npm run compile
 ```
 
+ Find Me :)
+---
+
 You can find me on
 
 github(/kaleem_elahi)
