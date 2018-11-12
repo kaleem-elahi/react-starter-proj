@@ -14,7 +14,7 @@ npm install
 
 You can find me on
 
-github(kaleem_elahi)
+github(/kaleem_elahi)
 
 twitter(/kaleem__elahi)
 
