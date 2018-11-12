@@ -11,6 +11,12 @@ Setup
 npm install
 ```
 
+ Compile
+---
+
+```
+npm run compile
+```
 
 You can find me on
 
